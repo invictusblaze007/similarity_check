@@ -3,11 +3,10 @@
 Welcome to the LangChain Similarity Checker! 🐱‍👤 This tool allows you to check the similarity score and discover similar chunks within your English or Urdu data using LangChain.
 
 ## Prerequisites
-Before getting started, ensure you have the required packages installed. Open your terminal and run the following command:
+Before getting started, ensure you have the required packages installed and you have the pinecone API key (one index is freely available 28-12-2023). 
+<br>Put your pinecone API key in .streamlit/secrets.toml. <br>Open your terminal and run the following command:
 
 command--> pip install unstructured[pdf] chardet langchain streamlit pinecone sentence_transformers
-
-
 
 **Note:** It's crucial to have these dependencies installed to ensure **smooth execution**.
 
