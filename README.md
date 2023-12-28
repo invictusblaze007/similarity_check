@@ -1,4 +1,4 @@
-# LangChain Similarity Checker
+<img width="929" alt="image" src="https://github.com/invictusblaze007/similarity_check/assets/146515834/de4585cf-abd8-462d-9e62-58399181ef92"># LangChain Similarity Checker
 
 Welcome to the LangChain Similarity Checker! 🐱‍👤 This tool allows you to check the similarity score and discover similar chunks within your English or Urdu data using LangChain.
 
@@ -12,19 +12,18 @@ command--> pip install unstructured[pdf] chardet langchain streamlit pinecone se
 **Note:** It's crucial to have these dependencies installed to ensure **smooth execution**.
 
 
-**Step 1: Upload Your Data**
+**Step 1: Upload Your Data**<br>
 Place your English or Urdu data files in the 'data' folder. Ensure your files are in a compatible format for analysis.
 
-**Step 2:** Run "chunks_store_embedding.py"
+**Step 2:** Run "chunks_store_embedding.py"<br>
 Execute the following command in your terminal to run the file responsible for storing embeddings of language chunks:
 
 command--> python chunks_store_embedding.py
 This **step is critical** as it prepares the necessary embeddings for further analysis.
 
-**Step 3: Run "main.py"**
+**Step 3: Run "main.py"**<br>
 Launch the Streamlit UI to explore similarity scores and discover similar chunks. Execute the following command in your terminal:
 command--> streamlit run main.py
 
 Your default web browser will open, revealing the user interface for LangChain Similarity Checker.
-
 Feel free to customize and enhance this tool according to your specific requirements. Happy exploring! 🎉
