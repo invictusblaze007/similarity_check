@@ -4,7 +4,7 @@ Welcome to the LangChain Similarity Checker! 🐱‍👤 This tool allows you to
 
 ## Prerequisites
 
-Before getting started, ensure you have the required packages installed and you have the Pinecone API key (one index is freely available until 28-12-2023).
+Before you get started, please ensure you have the required packages installed and you have the Pinecone API key (one index is freely available **28-12-2023**).
 
 - Put your Pinecone API key in `.streamlit/secrets.toml`.
 - Open your terminal and run the following command:
@@ -28,9 +28,9 @@ python chunks_store_embedding.py
   **Note:** This step is critical as it prepares the necessary embeddings for further analysis.
 
 ### Step 3: Run "main.py"<br>
-◍Launch the Streamlit UI to explore similarity scores and discover similar chunks.Execute the following command in your terminal:
+◍Launch the Streamlit UI to explore similarity scores and discover similar chunks. Execute the following command in your terminal:
 ```bash
-echo "streamlit run main.py"
+streamlit run main.py
 ```
 ◍. Your default web browser will open, revealing the user interface for LangChain Similarity Checker.
 
