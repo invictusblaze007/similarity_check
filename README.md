@@ -1,4 +1,4 @@
-<img width="929" alt="image" src="https://github.com/invictusblaze007/similarity_check/assets/146515834/de4585cf-abd8-462d-9e62-58399181ef92"># LangChain Similarity Checker
+# LangChain Similarity Checker
 
 Welcome to the LangChain Similarity Checker! 🐱‍👤 This tool allows you to check the similarity score and discover similar chunks within your English or Urdu data using LangChain.
 
