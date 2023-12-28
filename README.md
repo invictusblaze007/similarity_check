@@ -20,7 +20,7 @@ Before getting started, ensure you have the required packages installed and you 
 
 ### Step 2: Run "chunks_store_embedding.py"
 
-◍. Execute the following command in your terminal to store embeddings of language chunks:
+◍. Run this file `chunks_store_embedding.py` directly or execute the following command in your terminal to store embeddings of language chunks:
 
 ```bash
 echo "python chunks_store_embedding.py"
