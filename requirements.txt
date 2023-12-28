@@ -1,0 +1,6 @@
+unstructured[pdf]
+chardet
+langchain
+streamlit 
+pinecone
+sentence_transformers
