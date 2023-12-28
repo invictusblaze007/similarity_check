@@ -15,7 +15,7 @@ Before getting started, ensure you have the required packages installed and you 
   **Note:** It's crucial to have the following dependencies installed to ensure smooth execution:
 ### Step 1: Upload Your Data
 
-◍. Place your English or Urdu data files in the `data` folder.
+◍. Place your English or Urdu data files in the `data` folder.<br>
 ◍. Ensure your files are in a compatible format for analysis.
 
 ### Step 2: Run "chunks_store_embedding.py"
@@ -25,7 +25,7 @@ Before getting started, ensure you have the required packages installed and you 
 ```bash
 echo "python chunks_store_embedding.py"
 ```
-  **Note:**This step is critical as it prepares the necessary embeddings for further analysis.
+  **Note:** This step is critical as it prepares the necessary embeddings for further analysis.
 
 ### Step 3: Run "main.py"<br>
 ◍Launch the Streamlit UI to explore similarity scores and discover similar chunks.Execute the following command in your terminal:
