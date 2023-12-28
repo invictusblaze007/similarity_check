@@ -25,9 +25,9 @@ Before getting started, ensure you have the required packages installed and you 
 ```bash
 echo "python chunks_store_embedding.py"
 ```
- **Note:**This step is critical as it prepares the necessary embeddings for further analysis.
+  **Note:**This step is critical as it prepares the necessary embeddings for further analysis.
 
-###Step 3: Run "main.py"
+### Step 3: Run "main.py"<br>
 ◍Launch the Streamlit UI to explore similarity scores and discover similar chunks.Execute the following command in your terminal:
 ```bash
 echo "streamlit run main.py"
